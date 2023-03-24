@@ -49,7 +49,7 @@
     "electron-localshortcut": "^2.0.2",
     "electron-save-file": "^1.0.2",
     "empty-port": "0.0.2",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "express-handlebars": "^3.0.0",
     "express-http-proxy": "^1.2.0",
     "filesize": "^3.6.1",
