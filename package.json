@@ -45,7 +45,7 @@
     "url": "https://github.com/bismay4u/AppServer/issues"
   },
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.4.1",
     "electron-localshortcut": "^2.0.2",
     "electron-save-file": "^1.0.2",
     "empty-port": "0.0.2",
