@@ -67,7 +67,7 @@
     "node-thumbnail": "^0.14.0",
     "require-reload": "*",
     "s3": "^4.4.0",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.5.0",
     "underscore": "^1.9.1",
     "vue": "^2.5.16",
     "winston": "^2.3.1"
